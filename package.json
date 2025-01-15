@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "yarn": "^1.22.22"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^16.1.0"
+  }
+}
