@@ -1,10 +1,7 @@
 {
-  "dependencies": {
-    "yarn": "^1.22.22"
-  },
   "devDependencies": {
     "@testing-library/react": "^16.1.0"
-  }
+  },
   "scripts": {
     "build": "echo VERSION=$npm_package_version && npm run build",
     "test": "echo 'Running tests'",
